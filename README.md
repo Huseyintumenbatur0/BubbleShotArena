@@ -22,6 +22,8 @@ Bu proje, **3 günlük bir Global gamejam** sürecinde solo olarak geliştirilmi
 Şu anlık sadece geliştirme amaçlıdır, build paylaşımı yapılmamıştır.  
 İlgilenenler Unity projesini indirerek kendi bilgisayarlarında deneyebilir.
 
+🔗İndirme linki = [(https://huseyintumenbatur0.itch.io/)]
+
 ## ✍️ Geliştirici
 
 **Hüseyin Tümenbatur**  
